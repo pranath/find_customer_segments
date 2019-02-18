@@ -1,1 +1,3 @@
-# find_customer_segments
+# Identifying Customer Segments
+
+In this project, I will apply unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany.
